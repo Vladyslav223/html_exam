@@ -33,10 +33,10 @@ body {
      
 }
 
-.photo span {
+.rank {
     position: absolute;
     top: 51%;
-    right: 0;
+    right: 8px;
     background: white;
     border-radius: 31px;
     width: 32px;
@@ -46,6 +46,7 @@ body {
     line-height: 18px;
     box-sizing: border-box;
     padding: 7px;
+    color: #8B0000;
 }
 
 .extra {
